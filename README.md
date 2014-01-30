@@ -22,6 +22,7 @@ Right now, everything's mostly done, but it hasn't been tested well. Adding loca
 
 If you'd like to help, you'll need:
 - To have completed the game already (on any previous version)
+- A Steam account
 - A github.com account to report issues
 
 Send me an email at **helptest [at] papersplea [dot] se** that includes your github name and I'll set you up with password access to a super secret hidden beta branch of the game on Steam \*. Then you just need to play the new build and report any bugs or problems you have by [opening an issue here](https://github.com/dukope/BugsPlease/issues). If you previously played a friend's copy or a non-Steam build, and you have some prior experience testing games, mention that in your email and I'll give you a Steam code for testing.
@@ -41,7 +42,7 @@ In general, these are the kinds of things to look out for:
 
 If you're playing in a non-English language also keep an eye out for confusing or wrong localizations. It could be a problem with the localization system or the translated text. The people who translated the game text are extremely good but there's always a chance that we missed something.
 
-### An Experiment
+### Experimental
 
 This semi-private test is a bit of an experiment. I don't know how well it'll go. If it spirals out of orbit then we can wave goodbye with both hands. Though, I'm currently a little worried that the game might be too buggy to unleash publicly. A more private test like this seems like a better idea than just releasing it and hoping for the best.
 
