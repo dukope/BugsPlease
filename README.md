@@ -11,8 +11,8 @@ I'm working on a big update to [Papers, Please](http://papersplea.se) that inclu
     - German
     - Spanish
     - Portuguese (Brazilian)
-    - Russian (not complete yet)
-    - Japanese (not complete yet)
+    - Russian
+    - Japanese (still getting tweaked)
 - A software rendering mode
 - (No new content)
 
