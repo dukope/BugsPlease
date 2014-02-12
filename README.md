@@ -4,7 +4,7 @@ Bugs, Please
 The latest version of [Papers, Please](http://papersplea.se) as been updated to include:
 
 - A Linux version
-- Lots of bug fixes to the current public version (1.0.41)
+- Lots of bug fixes
 - Localizations
     - French
     - Italian
